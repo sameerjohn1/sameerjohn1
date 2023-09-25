@@ -1,3 +1,4 @@
+![logo](https://github.com/sameerjohn1/sameerjohn1/blob/main/coder.webp)
 <h1 align="center">Hi 👋, I'm Sameer John</h1>
 <h3 align="center">
   A passionate frontend And Mern-stack developer from Pakistan
