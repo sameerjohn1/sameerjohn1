@@ -1,5 +1,5 @@
 <h1 align="center">Sameer John</h1>
-<h3 align="center">Frontend Developer — React.js • Next.js • TypeScript • MERN Stack</h3>
+<h3 align="center">Frontend Developer — React.js • Next.js • JavaScript • TypeScript • MERN Stack</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sameer-john-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
