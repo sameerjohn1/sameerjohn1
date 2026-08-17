@@ -1,3 +1,5 @@
+![banner](https://raw.githubusercontent.com/sameerjohn1/sameerjohn1/main/coder.webp)
+
 <h1 align="center">Sameer John</h1>
 <h3 align="center">Frontend Developer — React.js • Next.js • JavaScript • TypeScript • MERN Stack</h3>
 
@@ -7,8 +9,6 @@
   <a href="https://sameer-dev-portfolio-eta.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <img src="https://img.shields.io/badge/Lahore%2C%20Pakistan-informational?style=flat" alt="Location"/>
 </p>
-
-<img align="right" alt="coding" width="380" src="https://raw.githubusercontent.com/sameerjohn1/sameerjohn1/main/coder.webp"/>
 
 ## About Me
 
@@ -20,8 +20,6 @@ Comfortable across the MERN stack (Node.js, Express.js, MongoDB), Figma-to-code 
 - **Phone:** +92 329 6333301
 - **Portfolio:** [sameer-dev-portfolio-eta.vercel.app](https://sameer-dev-portfolio-eta.vercel.app)
 - **LinkedIn:** [sameer-john-dev](https://www.linkedin.com/in/sameer-john-dev/)
-
-<br clear="right"/>
 
 ## Tech Stack
 
