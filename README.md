@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/sameerjohn1/sameerjohn1/main/coder.webp)
+![banner](https://raw.githubusercontent.com/sameerjohn1/sameerjohn1/main/banner.gif)
 
 <h1 align="center">Sameer John</h1>
 <h3 align="center">Frontend Developer — React.js • Next.js • JavaScript • TypeScript • MERN Stack</h3>
