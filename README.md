@@ -18,7 +18,7 @@ Comfortable across the MERN stack (Node.js, Express.js, MongoDB), Figma-to-code 
 
 - **Email:** sameerprogrammer5@gmail.com
 - **Phone:** +92 329 6333301
-- **Portfolio:** [sameer-dev-portfolio-eta.vercel.app](https://sameer-john-portfolio.vercel.app/)
+- **Portfolio:** [sameer-john-portfolio.vercel.app](https://sameer-john-portfolio.vercel.app/)
 - **LinkedIn:** [sameer-john-dev](https://www.linkedin.com/in/sameer-john-dev/)
 
 ## Tech Stack
