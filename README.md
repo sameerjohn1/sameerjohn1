@@ -71,7 +71,7 @@ Full-stack finance app with JWT auth, protected routes, complete CRUD on an opti
 ### Personal Portfolio
 `Next.js` `TailwindCSS` `EmailJS` `Particle.js`
 Fully responsive portfolio with smooth scroll navigation, interactive particle animations, SEO-optimized meta tags, and a working contact form via EmailJS.
-🔗 [sameer-dev-portfolio-eta.vercel.app](https://sameer-dev-portfolio-eta.vercel.app)
+🔗 [sameer-john-portfolio.vercel.app](https://sameer-john-portfolio.vercel.app/)
 
 ## Education & Certifications
 
