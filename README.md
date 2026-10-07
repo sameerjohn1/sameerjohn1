@@ -12,9 +12,13 @@
 
 ## About Me
 
-Frontend Developer with 2+ years of hands-on experience building React.js and Next.js applications used by real users. At **Deutics Global**, I worked on **Camzify**, an AI-powered surveillance platform — cut component re-renders by 40% and integrated 15+ REST APIs using RTK Query and TanStack Query. I also built and shipped a context-aware AI chatbot (Next.js, MongoDB, Google Gemini via OpenRouter) that embeds into any website with a single script tag and answers questions specific to that application — running live on my own portfolio.
+Full Stack Developer with 2+ years of experience, including work at **Deutics Global** and **Sprouto Group**. I focus on React.js and Next.js, and at Deutics I cut unnecessary re-renders by about 40% in a production app (**Camzify**, an AI-powered surveillance platform). I also owned 20+ React components and integrated 15+ REST APIs with RTK Query and TanStack Query.
 
-Comfortable across the MERN stack (Node.js, Express.js, MongoDB), Figma-to-code workflows, Redux Toolkit, JWT auth, and role-based access control. Currently looking for a **Frontend Developer / React.js** role where I can keep shipping fast, reliable, user-facing products.
+On the backend, I work with Node.js, Express and MongoDB: JWT authentication, protected routes, role-based access control and REST API design. Outside work, I've built an embeddable AI customer support chatbot (Next.js, Google Gemini, Scalekit) and a MERN e-commerce store with Stripe payments and an AI shopping assistant.
+
+**Core stack:** MERN Stack, JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB, Redux Toolkit, RTK Query, Tailwind CSS
+
+Open to **Full Stack Developer**, **MERN Stack Developer** and **Frontend Developer** roles (remote, hybrid or on-site).
 
 - **Email:** sameerprogrammer5@gmail.com
 - **Phone:** +92 329 6333301
@@ -37,41 +41,60 @@ Comfortable across the MERN stack (Node.js, Express.js, MongoDB), Figma-to-code 
 
 ## Experience
 
-**Junior MERN Stack Developer (Fixed-Term Contract)** — Sprouto Group, Lahore
-*May 2026 – May 2026*
-Contributed to full-stack features across React.js, Node.js, Express.js, and MongoDB within an agile team; resolved bugs, implemented UI components, and took part in sprint reviews and code reviews.
+**Backend Developer (MERN Stack), Freelance** — Self-Employed, Remote
+*Sep 2026 – Present*
+Built the backend for a travel-planning platform from scratch with Node.js, Express and MongoDB Atlas, and agreed on REST API contracts with the frontend developer.
+- JWT authentication (register, login, protected `/auth/me`, logout) with bcrypt password hashing
+- Mongoose schemas for User, Trip, Itinerary, Destination and Activity
+- Destinations API, with static frontend data moved into MongoDB through a custom seed script, deployed on Vercel
+- Currently building role-based access control (Traveler, Seller, Admin), Trip CRUD and itinerary management
 
-**Freelance Frontend Developer** — Self-Employed, Lahore
+**Junior MERN Stack Developer (Contract)** — Sprouto Group, Lahore
+*May 2026 – Jun 2026*
+- Built transactional email with the Resend API on the Node.js/Express backend and connected it to the React.js frontend
+- Tightened the protected route setup so unauthorized users are properly blocked
+- Reduced bundle size with code splitting and more reusable components
+
+**Full Stack Developer (Freelance)** — Self-Employed, Remote
 *Nov 2025 – Apr 2026*
-Designed and shipped two production-grade projects live on Vercel: an AI customer support chatbot (Next.js + Google Gemini) and a full-stack MERN expense tracker. Deepened expertise in Next.js App Router, TypeScript, SSR/SSG, JWT auth flows, and multi-org authentication via Scalekit.
+Built and shipped two projects on my own, both live on Vercel: an AI customer support chatbot (Next.js, Google Gemini, Scalekit) and a MERN expense tracker. Worked with Next.js App Router, SSR/SSG, TypeScript, JWT flows and multi-org authentication.
 
-**Associate Frontend Developer** — Deutics Global, Lahore (Camzify — camzify.com)
-*May 2024 – Oct 2025*
-- Built a high-performance dashboard UI for an AI-based surveillance platform with real-time notifications and intelligent heat map visualizations.
-- Reduced component re-renders by **40%** through memoization, lazy loading, and architectural improvements.
-- Integrated **15 REST APIs** using RTK Query and TanStack Query; engineered advanced filters and pagination for large dataset rendering.
-- Delivered three role-based interfaces (Admin, Sub-Admin, User) with complete RBAC workflows, converted directly from Figma designs.
+**Associate Frontend Developer** — Deutics Global (Camzify), Lahore
+*May 2024 – Oct 2025 (Intern, then Trainee, then Associate)*
+- Owned 20+ React components that are still live in production
+- Cut unnecessary re-renders by about **40%** with memoization and better hook patterns
+- Integrated **15+ REST APIs** with RTK Query and TanStack Query, with caching, filtering and pagination for large datasets
+- Delivered three role-based interfaces (Admin, Sub-Admin, User) from Figma designs for an AI-powered surveillance platform, including real-time notifications and heat-map visualizations
 
 **Junior React.js Developer (Contract)** — ZNZ Technologies, Lahore
 *Jan 2024 – Mar 2024*
-Built reusable components for an e-learning platform (gig creation, likes, comments, real-time chat) using Redux Toolkit for state management; integrated RESTful APIs and converted Figma designs to responsive UIs.
+Built reusable components for an e-learning platform (gig creation, likes, comments, real-time chat), integrated REST APIs and turned Figma designs into responsive UIs.
+
+**React Developer** — Vvork Cloud Technologies, Lahore
+*Feb 2022 – Oct 2022*
+Built frontend features with React.js and Bootstrap.
 
 ## Featured Projects
 
 ### AI Customer Support Chatbot
-`Next.js` `TypeScript` `TailwindCSS` `MongoDB` `Google Gemini API` `OpenRouter` `Scalekit`
-Context-aware, application-specific AI chatbot — drops into any site via a single script tag (like Intercom/Tidio) and answers visitor questions in real time. Multi-org auth via Scalekit lets the same engine power multiple independent client apps. Live on my own portfolio.
+`Next.js` `TypeScript` `Tailwind CSS` `MongoDB` `Google Gemini` `Scalekit`
+An embeddable chatbot that any website can add with a single script tag, similar to Intercom and Tidio. Scalekit handles multi-organization login, so one app serves multiple clients. Chat history and settings are stored in MongoDB.
 🔗 [ai-customer-support-b4dw.vercel.app](https://ai-customer-support-b4dw.vercel.app)
 
-### Expense Tracker — Full-Stack MERN
+### MERN E-Commerce Store with AI Shopping Assistant
+`React` `Node.js` `Express` `MongoDB` `Stripe` `Redis` `Cloudinary` `Tailwind CSS`
+JWT auth, Stripe payments with webhooks, Cloudinary uploads and an admin dashboard for products, users and orders. An AI assistant on the OpenRouter API recommends products from the catalog and falls back to another model if one fails.
+🔗 [mern-ecommerce-store-w2lo.vercel.app](https://mern-ecommerce-store-w2lo.vercel.app)
+
+### Expense Tracker (MERN Stack)
 `React.js` `Node.js` `Express.js` `MongoDB` `Redux Toolkit` `JWT` `Recharts`
-Full-stack finance app with JWT auth, protected routes, complete CRUD on an optimized MongoDB schema, and an interactive Recharts analytics dashboard.
+Track income and expenses with JWT auth, protected routes, full CRUD and an analytics dashboard built with Recharts.
 🔗 [sameerjohn1-expense-tracker-mern.vercel.app](https://sameerjohn1-expense-tracker-mern.vercel.app)
 
 ### Personal Portfolio
-`Next.js` `TailwindCSS` `EmailJS` `Particle.js`
-Fully responsive portfolio with smooth scroll navigation, interactive particle animations, SEO-optimized meta tags, and a working contact form via EmailJS.
-🔗 [sameer-john-portfolio.vercel.app](https://sameer-john-portfolio.vercel.app/)
+`Next.js 16` `TypeScript` `Tailwind CSS` `Framer Motion` `GSAP` `Lenis` `EmailJS`
+Layered animations with smooth scroll, a glassmorphism UI, a dark/light theme built on design tokens, SEO metadata and a working EmailJS contact form.
+🔗 [sameer-john-portfolio.vercel.app](https://sameer-john-portfolio.vercel.app)
 
 ## Education & Certifications
 
@@ -88,4 +111,4 @@ Fully responsive portfolio with smooth scroll navigation, interactive particle a
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerjohn1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
-<p align="center"><i>Open to Frontend Developer / React.js opportunities — feel free to reach out.</i></p>
+<p align="center"><i>Open to Full Stack Developer, MERN Stack Developer and Frontend Developer roles. Feel free to reach out.</i></p>
