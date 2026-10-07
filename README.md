@@ -31,13 +31,14 @@ Open to **Full Stack Developer**, **MERN Stack Developer** and **Frontend Develo
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,tailwind,bootstrap,nodejs,express,mongodb,git,github,figma,postman,vscode,vercel"/>
 </p>
 
-**Frontend:** React.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3
-**Styling:** Tailwind CSS, Material UI, Styled Components, Bootstrap, Responsive Design
-**State Management:** Redux Toolkit, TanStack Query, RTK Query, Context API
-**Backend / DB:** Node.js, Express.js, MongoDB, REST API Design, JWT Auth
-**AI Integration:** Google Gemini API, OpenRouter, Embeddable AI Chat Widgets
-**Performance:** Memoization, Lazy Loading, Code Splitting, SSR/SSG, React Hooks
-**Tools:** Git, GitHub, Vercel, Postman, VS Code, Figma, CI/CD, Agile/Scrum
+- **Frontend:** React.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3  
+- **Backend and Databases:** Node.js, Express.js, MongoDB, Mongoose, REST API Design  
+- **Auth and Security:** JWT Auth, bcrypt, Protected Routes, Role-Based Access Control (RBAC)  
+- **State Management:** Redux Toolkit, RTK Query, TanStack Query, Context API  
+- **Styling:** Tailwind CSS, Material UI, Styled Components, Bootstrap, Responsive Design  
+- **AI and Integrations:** Google Gemini API, OpenRouter, Stripe, Resend API, EmailJS  
+- **Performance:** Memoization, Lazy Loading, Code Splitting, SSR/SSG, React Hooks  
+- **Tools:** Git, GitHub, Vercel, Postman, VS Code, Figma  
 
 ## Experience
 
