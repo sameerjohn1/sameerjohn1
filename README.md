@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sameer-john-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:sameerprogrammer5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://sameer-dev-portfolio-eta.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://sameer-john-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <img src="https://img.shields.io/badge/Lahore%2C%20Pakistan-informational?style=flat" alt="Location"/>
 </p>
 
