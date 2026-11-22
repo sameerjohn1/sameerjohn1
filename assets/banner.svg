@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Sameer John, Frontend-Focused Full Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071A4D"/>
+      <stop offset="0.55" stop-color="#1537B8"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#7DD3FC" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#7DD3FC" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.07"/>
+    </pattern>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="1000" height="260" rx="18"/></clipPath>
+    <style>
+      text { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+      .orb1 { animation: drift1 9s ease-in-out infinite alternate; }
+      .orb2 { animation: drift2 11s ease-in-out infinite alternate; }
+      .sweep { animation: sweep 7s linear infinite; }
+      .float1 { animation: float 4.5s ease-in-out infinite alternate; }
+      .float2 { animation: float 5.5s ease-in-out infinite alternate-reverse; }
+      .float3 { animation: float 6.5s ease-in-out infinite alternate; }
+      .name { animation: rise 1.4s ease-out both; }
+      .role { animation: rise 1.4s ease-out 0.35s both; }
+      .line { transform-box: fill-box; transform-origin: center; animation: pulse 3.2s ease-in-out infinite; }
+      .stack { animation: rise 1.4s ease-out 0.7s both; }
+      .dot { animation: blink 2.4s ease-in-out infinite; }
+      .dot2 { animation: blink 2.4s ease-in-out 0.8s infinite; }
+      .dot3 { animation: blink 2.4s ease-in-out 1.6s infinite; }
+      @keyframes drift1 { from { transform: translate(0, 0); } to { transform: translate(140px, 30px); } }
+      @keyframes drift2 { from { transform: translate(0, 0); } to { transform: translate(-160px, -20px); } }
+      @keyframes sweep { from { transform: translateX(-420px) skewX(-20deg); } to { transform: translateX(1150px) skewX(-20deg); } }
+      @keyframes float { from { transform: translateY(0); } to { transform: translateY(-14px); } }
+      @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes pulse { 0%, 100% { transform: scaleX(0.35); opacity: 0.6; } 50% { transform: scaleX(1); opacity: 1; } }
+      @keyframes blink { 0%, 100% { opacity: 0.25; } 50% { opacity: 1; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1000" height="260" fill="url(#bg)"/>
+    <rect width="1000" height="260" fill="url(#grid)"/>
+
+    <circle class="orb1" cx="150" cy="60" r="150" fill="url(#glow)"/>
+    <circle class="orb2" cx="850" cy="220" r="170" fill="url(#glow)"/>
+
+    <rect class="sweep" x="0" y="0" width="260" height="260" fill="url(#sweep)"/>
+
+    <g fill="#FFFFFF" fill-opacity="0.22" font-weight="700">
+      <text class="float1" x="70" y="80" font-size="34">&lt;/&gt;</text>
+      <text class="float2" x="880" y="70" font-size="30">{ }</text>
+      <text class="float3" x="110" y="215" font-size="26">JS</text>
+      <text class="float1" x="860" y="205" font-size="26">TS</text>
+      <text class="float2" x="230" y="40" font-size="22">( )</text>
+      <text class="float3" x="740" y="42" font-size="22">=&gt;</text>
+    </g>
+
+    <text class="name" x="500" y="122" text-anchor="middle" font-size="62" font-weight="800" fill="#FFFFFF" letter-spacing="1">Sameer John</text>
+    <text class="role" x="500" y="162" text-anchor="middle" font-size="21" font-weight="500" fill="#BAE6FD" letter-spacing="3">FRONTEND-FOCUSED FULL STACK DEVELOPER</text>
+    <rect class="line" x="420" y="180" width="160" height="3" rx="1.5" fill="#7DD3FC"/>
+
+    <g class="stack" text-anchor="middle" font-size="16" fill="#E0F2FE">
+      <text x="500" y="218" letter-spacing="1.5">React.js  ·  Next.js  ·  Node.js  ·  MongoDB</text>
+    </g>
+
+    <circle class="dot" cx="438" cy="238" r="3" fill="#7DD3FC"/>
+    <circle class="dot2" cx="500" cy="238" r="3" fill="#7DD3FC"/>
+    <circle class="dot3" cx="562" cy="238" r="3" fill="#7DD3FC"/>
+  </g>
+</svg>
