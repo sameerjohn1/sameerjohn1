@@ -124,20 +124,6 @@ At **Deutics Global** I worked on **Camzify**, an AI-powered surveillance platfo
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Schola — School Management SaaS</h3>
-      Multi-tenant school management platform.<br/><br/>
-      <img src="https://img.shields.io/badge/Type-SaaS-1D4ED8?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Architecture-Multi--tenant-0891B2?style=flat-square"/><br/><br/>
-      <a href="https://github.com/sameerjohn1/schola-school-management-saas">Source</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Social Media Automation</h3>
-      Social media management tool with AI-generated content.<br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AI-Content%20Generation-8B5CF6?style=flat-square"/><br/><br/>
-      <a href="https://github.com/sameerjohn1/social-media-automation">Source</a>
-    </td>
   </tr>
 </table>
 
